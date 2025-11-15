@@ -1,0 +1,12 @@
+NLP 
+
+TF-IDF vectorizer
+
+Cosine similarity 
+
+Data preprocessing
+
+Recommendation logic
+
+
+
